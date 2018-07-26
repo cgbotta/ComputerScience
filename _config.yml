@@ -8,7 +8,8 @@ url:               "http://cgbotta.github.io"
 # Social Profiles
 twitter_username:  colton_botta
 github_username:   cgbotta
-facebook_username: StartBootstrap
+facebook_username: ColtonBotta
+personal_website: "https://cgbotta.github.io/"
 
 # Build settings
 markdown:          kramdown
